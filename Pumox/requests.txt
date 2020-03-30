@@ -1,0 +1,16 @@
+{
+	"Name": "testCompany",
+	"EstablishmentYear": 1999,
+	"Employees": [{
+		"FirstName": "Jan",
+		"LastName": "Kowalski",
+		"DateOfBirth": "1990-02-13",
+		"JobTitle": "Administrator"
+		},
+		{
+		"FirstName": "Adam",
+		"LastName": "Nowak",
+		"DateOfBirth": "1972-03-22",
+		"JobTitle": "Developer"
+		}]
+}
